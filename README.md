@@ -17,10 +17,6 @@
 - 🎨 Multiple themes for personalized coding experience
 - 🎨 Collaborative Drawing: Enable users to draw and sketch collaboratively in real-time
 
-## 🚀 Live Preview
-
-You can view the live preview of the project [here](https://code-sync-live.vercel.app/).
-
 ## 💻 Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
